@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "io.github.neonishere.owonullfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "EdmOpsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
