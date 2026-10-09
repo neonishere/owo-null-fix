@@ -1,4 +1,4 @@
-# Owo Null Fix
+# owo Null Fix
 
 NeoForge 1.21.1. Requires owo-lib. Install on client and server.
 
